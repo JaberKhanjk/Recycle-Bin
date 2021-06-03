@@ -26,10 +26,7 @@
         </div>
         <div class="ui thirteen wide column" style="background-image: url('../Recycle-Bin/yes.png'); background-repeat: no-repeat ;background-size: cover; min-height: 100vh;">
             <h1 style="color: black;text-align: center; font-size: 7vh;padding-top: 30px;font-weight: 900;">!! About Us !!</h1>
-            <p style="font-size: 26px;margin: 30px;font-weight: 600">Recycle Bin is a place where people will be able to advertise and sell their used products . We are providing this service from 2021 around Bangladesh.<br><br>
-
-Fully free of cost, because our moto is the holy human welfare and stopping Environment pollution. .<br><br>
-
+            <p style="font-size: 26px;margin: 30px;font-weight: 600">Recycle Bin is a place where people will be able to advertise and sell their used products . We are providing this service from 2021 around Bangladesh.<br><br> Fully free of cost, because our moto is the holy human welfare and stopping Environment pollution. .<br><br>
 People can be benefited by using this site with no cost, avoiding physical movement and avoiding any further cost for move ment. </p>
 
         <br>
